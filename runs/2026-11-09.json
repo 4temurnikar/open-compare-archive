@@ -1,10 +1,10 @@
 {
  "date": "2026-11-09",
  "sigVersion": 1,
- "at": "2026-11-09T02:08:26.412Z",
- "listed": 20169,
- "priced": 20169,
- "new": 20169,
+ "at": "2026-11-09T05:20:35.989Z",
+ "listed": 20211,
+ "priced": 20211,
+ "new": 20211,
  "price": 0,
  "unconfirmed": 0,
  "meta": 0,
@@ -13,6 +13,6 @@
  "back": 0,
  "rebase": 0,
  "collisions": 0,
- "series": 20169,
+ "series": 20211,
  "flag": null
 }
